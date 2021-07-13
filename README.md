@@ -1,3 +1,4 @@
+
 ### Hi there 👋
 - 🔭 I’m currently working on competitive coding.
 - 🌱 I’m learning web development.
@@ -7,9 +8,6 @@
 - 📫 How to reach me: https://www.linkedin.com/in/anamikapatel1/
 - 😄 Pronouns: Anu.
 - ⚡ Fun fact: We can catchup very soon.
-<table align="center">
-    <tr>
-        <td><img src="https://github.com/anamikarpp/anamikarpp/girl.png" width=600 height=300></td>
-    </tr>
-    
-</table>
+
+![girl](https://user-images.githubusercontent.com/51049128/125428671-c339d85b-7c93-4f91-924c-26b12aa1d6ab.png)
+ 
