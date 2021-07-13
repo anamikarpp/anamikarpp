@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on competitive coding.
-- 🌱 I’m currently learning web development.
+- 🌱 I’m learning web development.
 - 👯 I’m looking to collaborate on Machine Learning, Data Science.
 - 🤔 I’m looking for help with open source.
 - 💬 Ask me about MLSA, Cloud Computing.
