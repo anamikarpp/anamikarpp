@@ -7,3 +7,9 @@
 - 📫 How to reach me: https://www.linkedin.com/in/anamikapatel1/
 - 😄 Pronouns: Anu.
 - ⚡ Fun fact: We can catchup very soon.
+<table align="center">
+    <tr>
+        <td><img src="https://github.com/anamikarpp/anamikarpp/girl.png" width=600 height=300></td>
+    </tr>
+    
+</table>
