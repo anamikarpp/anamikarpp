@@ -1,10 +1,10 @@
 
 ### Hi there 👋
-- 🔭 I’m currently working on competitive coding.
-- 🌱 I’m learning web development.
-- 👯 I’m looking to collaborate on Machine Learning, Data Science.
+- 🔭 I’m currently working as SDE at Philips.
+- 🌱 I’m have worked on React based project and trying to be frontend developer.
+- 👯 I’m looking to collaborate on Javascript, React project.
 - 🤔 I’m looking for help with open source.
-- 💬 Ask me about MLSA, Cloud Computing.
+- 💬 Ask me about React , software development.
 - 📫 How to reach me: https://www.linkedin.com/in/anamikapatel1/
 - 😄 Pronouns: Anu.
 - ⚡ Fun fact: Competition with AI begin 🤡.
